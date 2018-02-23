@@ -1,0 +1,14 @@
+F:\SG-Project\SG-JintTest\SG-JintTest\bin\Debug\SG-JintTest.exe.config
+F:\SG-Project\SG-JintTest\SG-JintTest\bin\Debug\SG-JintTest.exe
+F:\SG-Project\SG-JintTest\SG-JintTest\bin\Debug\SG-JintTest.pdb
+F:\SG-Project\SG-JintTest\SG-JintTest\obj\Debug\SG_JintTest.Properties.Resources.resources
+F:\SG-Project\SG-JintTest\SG-JintTest\obj\Debug\SG-JintTest.csproj.GenerateResource.Cache
+F:\SG-Project\SG-JintTest\SG-JintTest\obj\Debug\SG-JintTest.csproj.CoreCompileInputs.cache
+F:\SG-Project\SG-JintTest\SG-JintTest\obj\Debug\SG-JintTest.exe
+F:\SG-Project\SG-JintTest\SG-JintTest\obj\Debug\SG-JintTest.pdb
+F:\SG-Project\SG-JintTest\SG-JintTest\bin\Debug\Jint.dll
+F:\SG-Project\SG-JintTest\SG-JintTest\obj\Debug\SG_JintTest.CalcJintFrm.resources
+F:\SG-Project\SG-JintTest\SG-JintTest\obj\Debug\SG-JintTest.csprojResolveAssemblyReference.cache
+F:\SG-Project\SG-JintTest\SG-JintTest\bin\Debug\System.Net.Http.dll
+F:\SG-Project\SG-JintTest\SG-JintTest\bin\Debug\System.Net.Http.xml
+F:\SG-Project\SG-JintTest\SG-JintTest\bin\Debug\zh-Hans\System.Net.Http.resources.dll
